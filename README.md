@@ -494,6 +494,7 @@ Arizona State University
 Focused on:
 - Agentic AI Systems
 - Machine Learning
+- Data Science & Analytics
 - Multi-Agent Workflows
 - Data Engineering
 - AI Automation
