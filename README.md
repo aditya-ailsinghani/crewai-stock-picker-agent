@@ -137,10 +137,10 @@ The project sends real-time mobile notifications using the Pushover API whenever
 ## Example Notifications
 
 ### Notification Example 1
-![Notification 1](images/notify1.jpg)
+![Notification 1](images/notify2.jpg)
 
 ### Notification Example 2
-![Notification 2](images/notify2.jpg)
+![Notification 2](images/notify1.jpg)
 
 ---
 
