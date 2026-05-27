@@ -52,7 +52,7 @@ The workflow behaves like a miniature AI-powered investment research team with:
 
 # Workflow Architecture
 
-![Workflow](images/workflow.png)
+![Workflow](images/workflow2.png)
 
 ---
 
